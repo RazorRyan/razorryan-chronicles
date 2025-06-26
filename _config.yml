@@ -2,13 +2,14 @@
 # ------------------
 
 title: "Razor Ryan Chronicles"
-
 author:
   name: Ryan Chetty
   email: ryan.chetty16@gmail.com
-
 description: >
   Welcome to Razor Ryan Chronicles — a space where I share my passions and personal journey.
   I love dancing, immersing myself in video games, building cool things through code, and
   pushing myself at the gym. I'm all about living a healthy lifestyle, eating clean, and
   always striving to grow — physically, mentally, and creatively.
+baseurl: "/razorryan-chronicles"
+url: "https://razorryan.github.io"
+theme: minima
